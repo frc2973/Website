@@ -1,0 +1,407 @@
+﻿.aboutButton {
+    height: 50px;
+    width: 200px;
+    padding: 0px 10px;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    color: #FFF;
+    background-color: rgba(0,0,0,0.25);
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 25px;
+		transition-duration: 0.3s;
+    -webkit-tranition-duration: 0.3s;
+    margin-bottom: 10px;
+}
+
+.aboutButton:hover {
+    background-color: rgb(0,0,0);
+    transition-duration: 0.3s;
+    -webkit-tranition-duration: 0.3s;
+		box-shadow: 0 0 10px black;
+}
+
+@media only screen and (max-width: 1055px) {
+
+  #TeamContainer {
+    height: 600px !important;
+  }
+
+  #RobotDescription {
+    position: relative !important;
+    float: top !important;
+    height: 500px !important;
+    overflow-y: auto !important;
+    width: calc(100vw - 40px - 20px) !important;
+  }
+
+  .SSContainer {
+    height: 500px !important;
+  }
+
+  .SSContainer > i {
+    margin-top: calc(250px - 16px) !important;
+  }
+
+  .small {
+    margin-top: calc(250px - 16px) !important;
+  }
+
+  #aboutRobot {
+    height: 1000px !important;
+  }
+
+  .RobotImage {
+    width: calc(100% - 140px - 20px) !important;
+    height: 500px !important;
+  }
+
+  #TeamDescription {
+    width: calc(100% - 40px) !important;
+  }
+}
+
+#aboutBackground {
+    width:100%;
+    min-height:calc(100% - 60px);
+    background-color: transparent;
+    /*background-image: url("/images/MR About.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;*/
+}
+
+#aboutTeam {
+    height: 400px;
+    width: calc(100% - 80px);
+    text-align: center;
+    padding: 20px 40px;
+    background-color: transparent;
+    color: #FFF;
+}
+
+#TeamDescription {
+    width: 100%;
+    max-width: 1000px;
+    padding: 0px calc((100% - 1000px) / 2);
+    height: 400px;
+    color: white;
+}
+
+#TeamImage {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    display: block;
+}
+
+#TeamText {
+    width: 700px;
+    height: auto;
+    position: absolute;
+    display: block;
+    margin-left: 300px;
+    text-align: justify;
+}
+
+#aboutSchedule {
+    width: 100%;
+    background-color: rgba(0,0,0,0.125);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#aboutSchedule > table {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    width: calc(100% - 40px);
+}
+
+#aboutRobot {
+    height: auto; /*change to scrolling background*/
+    width: -webkit-fill-available;
+    background-color: transparent;
+    padding: 10px;
+}
+
+#aboutGallery {
+  height: auto;
+  width: 100%;
+  background-color: transparent;
+}
+
+#imageContainer {
+  width: 100%;
+  height: auto;
+}
+
+.galleryImage {
+  width: 100%;
+  height: 700px;
+}
+
+#prominent {
+  grid-column: 2 / span 3;
+}
+
+.faded {
+  grid-column: span 1;
+  /*add darkening effect*/
+}
+
+#galleryCaption {
+  width: 100%;
+  height: 100px;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  line-height: 100px;
+  grid-column: 1 / span 5;
+}
+
+.SSContainer {
+    background-color: rgba(0,0,0,0.25);
+    text-align: center;
+}
+
+.SSContainer:hover {
+    background-color: rgba(0,0,0,0.5);
+}
+
+#RobotDescription {
+    width: calc(40% - 40px - 20px);
+    height: calc(600px - 20px);
+    color: white;
+    background-color: rgba(0,0,0,0.25);
+    padding: 0px 20px;
+		position: relative;
+		float: left;
+    overflow-y: auto;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+.RobotImage {
+		width: calc(60% - 140px - 20px);
+    margin: 10px;
+		height: calc(600px - 20px);
+    border-radius: 10px;
+		position: relative;
+		float: left;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#nineteen.RobotImage {
+    background-image: url("/images/robots/Robot2019.jpg");
+}
+
+#eighteen.RobotImage {
+    background-image: url("/images/robots/Robot2018.jpg");
+}
+
+#seventeen.RobotImage {
+    background-image: url("/images/robots/Robot2017.jpg");
+}
+
+#sixteen.RobotImage {
+    background-image: url("/images/robots/Robot2016.jpg");
+}
+
+#fifteen.RobotImage {
+    background-image: url("/images/robots/Robot2015.jpg");
+    background-size: contain;
+}
+
+#fourteen.RobotImage {
+    background-image: url("/images/robots/Robot2014.jpg");
+}
+
+#aboutSubteams {
+    display: flex;
+    width: calc(100% - 40px);
+    background-color: rgba(0,0,0,0.25);
+    color: #FFF;
+    padding: 20px;
+}
+
+#aboutSubteams > h1 {
+  margin: 40px;
+}
+
+.Subteam {
+    /*height: calc(50% - 55px - 53.6px);*/
+    min-height: 150px;
+    height: auto;
+    width: calc(100% - 40px);
+    position: relative;
+    float: left;
+    padding: 0px 20px;
+}
+
+#aboutSponsors {
+	height: auto;
+  width: calc(100% - 80px);
+  text-align: center;
+  padding: 20px 40px;
+  background-color: rgba(0,0,0, 0.25);
+}
+
+.sponsors {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#SponsorDescription
+{
+    width: 100%;
+    color: #FFF;
+    overflow-y: visible;
+    max-width: 1000px;
+    text-align: center;
+    padding: 0px calc((100% - 1000px) / 2);
+}
+
+#aboutContact {
+  height: 500px;
+  width: 100%;
+  color: #FFF;
+  max-width: 1500px;
+  padding: 0px calc((100% - 1500px) / 2);
+  text-align: justify;
+}
+
+@media only screen and (max-width: 550px)
+{
+  #ContactInfo {
+    width: 100% !important;
+  }
+  #ContactMap {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 800px)
+{
+  .aboutGallery {
+    width: 100px !important;
+    height: 100px !important;
+  }
+
+  .flip-card-inner {
+    width: 100px !important;
+    height: 100px !important;
+  }
+
+  .flip-card-front > img {
+    width: 100px !important;
+    height: 100px !important;
+  }
+
+  .flip-card-back > h2, p {
+    display: none !important;
+  }
+
+  .flip-card-back > button {
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    margin: none !important
+  }
+}
+
+#ContactMap {
+  width: calc(40% - 20px);
+  height: calc(100% - 20px);
+  padding: 10px;
+  border-radius: 10px !important;
+  position: relative;
+  float: left;
+}
+
+#ContactInfo {
+  width: calc(100% - 40px);
+  height: 100%;
+  position: relative;
+  float: left;
+  padding: 0px 20px;
+}
+
+.contactContent {
+    width: calc((100% / 3) - 40px - 20px);
+    height: 280px;
+    background-color: rgba(0,0,0,0.25);
+    border-radius: 10px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    float: left;
+    padding: 10px 20px;
+}
+
+.aboutGallery {
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    perspective: 1000px;
+    background-color: transparent;
+}
+
+.flip-card-inner {
+    width: 200px;
+    height: 200px;
+    text-align: left;
+    border-radius: 10px;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.aboutGallery:hover .flip-card-inner {
+    transform: rotateX(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: transparent;
+  color: black;
+  border-radius: 10px;
+}
+
+.flip-card-back {
+  color: white;
+  transform: rotateX(180deg);
+  background-color: rgba(0,0,0,0.25);
+  border-radius: 10px;
+}
+
+.flip-card-back > p {
+  font-size: 12px !important;
+  line-height: 16px;
+  padding: 0px 20px;
+  display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.flip-card-back > h3 {
+  padding: 0px 20px;
+}

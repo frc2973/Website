@@ -1,0 +1,6 @@
+>blog icon
+62
+>image1
+62
+>paragraph1
+We have begun deconstructing a previous robot to understand how it works. Next week, we are planning a mock build in which we will attempt to assemble a working robot from scratch. This means we will build the chassis, wire the electrical, and operate the machine all in one week. We hope to gain critical information about how long a chassis will take to assemble during the build season, and we will be able to understand what to do and what not to do come build season.

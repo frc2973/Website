@@ -1,0 +1,6 @@
+>blog icon
+39
+>image1
+40
+>paragraph1
+The Mad Rockers have completed the chassis frame coming up on Week 6 of the build! We began calibrating autonomous and teleoperated modes for the robot and worked on perfecting simple turns and refining the control systems.

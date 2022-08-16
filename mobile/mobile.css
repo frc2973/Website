@@ -1,0 +1,25 @@
+* {
+	font-family: "Roboto", serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Open Sans", sans-serif;
+}
+
+#mobileContainer {
+	height: 100%;
+	width: 100%;
+	background-color: #FFF;
+}
+
+#mobileHeader {
+	height: 10%;
+	background-color: black;
+}
+
+#mobileHolder {
+	height: 10%;
+	width: 100%;
+	background-color: rgb(62,62,62);
+	color: white;
+}

@@ -1,0 +1,115 @@
+#pageContainer  {
+	width: 100%;
+  background-color: transparent;
+  top: 60px;
+}
+
+.defaultContainer {
+	height: auto;
+  width: 100%;
+  max-width: 1460px;
+  color: white;
+  text-align: center;
+  padding: 10px 0px;
+	margin: 0 auto;
+}
+
+.questionContainer {
+  width: 800px;
+  height: auto;
+	margin: 0 10 10 10;
+	border-radius: 10px;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.question {
+  width: calc(100% - 40px);
+  height: auto;
+  background-color: rgba(0,0,0,0.25);
+  text-align: center;
+  line-height: 25px;
+  top:0;
+  left:0;
+	font-family: "Open Sans", sans-serif;
+	padding: 20;
+	cursor: pointer;
+}
+
+.question > h3, i {
+	margin: 0 !important;
+	font-size: 1.17em !important;
+}
+
+.answer {
+	width: calc(100% - 40px);
+  height: auto;
+  background-color: rgba(0,0,0,0.5);
+  text-align: left;
+  line-height: 25px;
+  top:0;
+  left:0;
+	padding: 20;
+	display: none;
+}
+
+.docContainer {
+	width: 345px;
+	height: 300px;
+	margin: 0 10 10 10;
+	border-radius: 10px;
+	padding: 20px;
+	overflow: hidden;
+	display: inline-block;
+	background-color: rgba(0,0,0,0.25);
+}
+
+.imgContainer {
+	width: 100%;
+	height: 150px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.textContainer {
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+}
+
+.contactContent {
+  width: calc((100% / 3) - 20px - 20px);
+  height: 280px;
+  background-color: rgba(0,0,0,0.25);
+  border-radius: 10px;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+  float: left;
+  padding: 10px;
+}
+
+.ddownContainer {
+	height: 100%;
+	width: 70px;
+	position: relative;
+	left: 730px;
+}
+
+.toggleButton {
+	height: 50px;
+	width: 50px;
+	padding: 0px 10px;
+	text-align: center;
+	line-height: 50px;
+	vertical-align: middle;
+	color: #FFF;
+	border: none;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 50%;
+	transition-duration: 0.3s;
+	-webkit-tranition-duration: 0.3s;
+	position: relative;
+
+}

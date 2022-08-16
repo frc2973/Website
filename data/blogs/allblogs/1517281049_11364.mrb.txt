@@ -1,0 +1,6 @@
+>blog icon
+25
+>image1
+
+>paragraph1
+The robot is now able to autonomously track the power cube and drive up to it, and, when the sensors detect the cube is in the ideal position, the grabber arms close!

@@ -1,0 +1,128 @@
+.compButton {
+    height: 50px;
+    width: 200px;
+    padding: 0px 10px;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    color: #FFF;
+    background-color: rgba(0,0,0,0.25);
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+		transition-duration: 0.3s;
+    -webkit-tranition-duration: 0.3s;
+}
+
+.compButton:hover {
+    background-color: rgb(0,0,0);
+    transition-duration: 0.3s;
+    -webkit-tranition-duration: 0.3s;
+		box-shadow: 0 0 10px black;
+}
+#pageContainer  {
+	width: 100%;
+  background-color: transparent;
+  top: 60px;
+}
+
+#compCountdown {
+    height: auto;
+    width: 100%;
+    max-width: 960px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.25);
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.compInformation {
+    width: calc(100% - 40px);
+    height: 600px;
+    color: white;
+    padding: 20px;
+    max-width: 1000px;
+    padding: 0px calc((100% - 1000px) / 2);
+    text-align: justify;
+}
+
+#InformationText {
+    width: 500px;
+    position: relative;
+    float: right;
+    padding: 0px 20px;
+    background-color: rgba(0,0,0,0.25);
+    border-radius: 10px;
+    margin: 10px;
+    height: 540px;
+}
+
+#InformationImage {
+    position: relative;
+    float: right;
+    border-radius: 10px;
+    width: calc(100% - 540px - 40px - 20px);
+    height: 540px;
+    margin: 10px;
+    overflow: hidden;
+}
+
+#InformationImage > iframe {
+    border-radius: 10px !important;
+}
+
+#compDescriptionContainer {
+    height: auto;
+    width: calc(100% - 40px);
+    padding: 20px;
+    color: #FFF;
+    text-align: center;
+    background-color: rgba(0,0,0,0.25);
+}
+
+.compDescription {
+    border-radius: 10px;
+    height: 300px;
+    background-color: rgba(0,0,0,0.25);
+    width: calc(100% - 22px);
+    max-width: 1000px;
+    margin: 20px 0px;
+    display: inline-block;
+    position: relative;
+    text-align: justify;
+}
+
+.descLogo {
+    height: 260px;
+    width: 260px;
+    position: absolute;
+    left: 20;
+    top: 20;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.descText {
+    height: 300px;
+    width: calc(100% - 40px - 300px);
+    position: absolute;
+    left: 300px;
+    top: 0;
+    padding: 0px 20px;
+    text-align: left;
+}
+
+#one {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/images/Comp RCR.jpg");
+}
+
+#two {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/images/Comp SMR.jpg");
+}

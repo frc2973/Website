@@ -1,0 +1,6 @@
+>blog icon
+30
+>image1
+31
+>paragraph1
+The assembly of the practice field scale is complete, along with field markings. We have 7 cubes with covers, which has assisted in the process of setting up the tracking features for autonomous. The chassis and drive train components should come in by Thursday. The gearbox and drive train wheel assemblies are complete. The control system assembly has been started. Motor, controller and sensor selection has been established. The lift parts have been ordered, and the gripper was prototyped, installed and tested. The 2015 robot has been disassembled for space and components.

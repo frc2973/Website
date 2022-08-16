@@ -1,0 +1,2 @@
+/uploaded is for all photos in the MadRockers DB. DO NOT force images in.
+Do not delete or rename images in /uploaded

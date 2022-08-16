@@ -1,0 +1,6 @@
+>blog icon
+62
+>image1
+
+>paragraph1
+The robot follows a square path in autonomous mode. This test was done to calibrate the gyroscope.

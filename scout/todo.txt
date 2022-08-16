@@ -1,0 +1,20 @@
+ADD TEAM-
+	Stylize to make it look decent
+
+UPDATE TEAM-
+	When Team entry is selected, display all data in editable format
+	Team data should be easily fit into a report page, fill in with server data on team
+
+TEAM REPORT-
+	Same procedure as UPDATE TEAM, but w/o editing permissions
+
+NEW MATCH-
+	Team 1 button duplicated, get a total of 6 buttons
+	move the buttons to outside the field (behind the alliance wall)
+	change 3 of the buttons to be blue
+	buttons will need to display a team name based on match
+		a) make a match file so that people can pick a match number and get all teams
+		b) pick specific team they scouted, no need for match data
+	~add buttons at each of the scoring spots.
+	Prodecure: Click the period the action was scored in, then the team that scored, then the action scored
+		-action: LVL1 Start, LVL2 Start, Cargo, Hatch, LVL1 Climb, LVL2 Climb, LVL3 Climb

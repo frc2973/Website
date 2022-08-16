@@ -1,0 +1,69 @@
+[09-Mar-2019 22:07:32 UTC] PHP Fatal error:  Cannot redeclare local_addBlueButton() (previously declared in /home3/qmjezymy/public_html/rockers/scout/matches/index.php:24) in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 24
+[09-Mar-2019 22:08:12 UTC] PHP Fatal error:  Cannot redeclare local_addBlueButton() (previously declared in /home3/qmjezymy/public_html/rockers/scout/matches/index.php:24) in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 24
+[14-Mar-2019 02:59:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 21
+[14-Mar-2019 02:59:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 21
+[08-Dec-2019 20:16:16 UTC] PHP Parse error:  syntax error, unexpected 'checkSubmitStatus' (T_STRING), expecting '(' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 35
+[08-Dec-2019 20:16:18 UTC] PHP Parse error:  syntax error, unexpected 'checkSubmitStatus' (T_STRING), expecting '(' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 35
+[08-Dec-2019 20:16:19 UTC] PHP Parse error:  syntax error, unexpected 'checkSubmitStatus' (T_STRING), expecting '(' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 35
+[08-Dec-2019 20:16:50 UTC] PHP Parse error:  syntax error, unexpected 'checkSubmitStatus' (T_STRING), expecting '(' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 35
+[08-Dec-2019 20:16:51 UTC] PHP Parse error:  syntax error, unexpected 'checkSubmitStatus' (T_STRING), expecting '(' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 35
+[08-Dec-2019 20:16:56 UTC] PHP Parse error:  syntax error, unexpected 'checkSubmitStatus' (T_STRING), expecting '(' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 35
+[15-Dec-2019 03:33:17 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 42
+[15-Dec-2019 03:33:19 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 42
+[15-Dec-2019 03:33:42 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 42
+[15-Dec-2019 03:35:17 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:35:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:35:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:36:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:36:31 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:37:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:37:03 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:37:07 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 03:38:42 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 48
+[15-Dec-2019 03:38:44 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 48
+[15-Dec-2019 03:38:58 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 45
+[15-Dec-2019 03:39:00 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 45
+[15-Dec-2019 03:39:03 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 45
+[15-Dec-2019 04:04:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 04:04:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 04:05:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 04:07:21 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 04:07:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 32
+[15-Dec-2019 04:08:07 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:11:56 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:12:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:12:22 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:12:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:16:55 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 58
+[15-Dec-2019 04:20:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:21:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:22:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:22:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:23:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:23:30 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 67
+[15-Dec-2019 04:23:32 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 67
+[15-Dec-2019 04:25:35 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 55
+[15-Dec-2019 04:26:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 56
+[15-Dec-2019 04:29:54 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 70
+[15-Dec-2019 04:29:56 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 70
+[15-Dec-2019 04:30:06 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 69
+[15-Dec-2019 04:32:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 70
+[15-Dec-2019 04:32:33 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:32:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 54
+[15-Dec-2019 04:33:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 55
+[15-Dec-2019 04:36:06 UTC] PHP Fatal error:  Call to a member function execute() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 55
+[15-Dec-2019 04:36:19 UTC] PHP Fatal error:  Call to a member function execute() on null in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 55
+[15-Dec-2019 17:11:15 UTC] PHP Fatal error:  Call to undefined function compStage() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 109
+[15-Dec-2019 17:12:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 135
+[15-Dec-2019 17:12:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 135
+[15-Dec-2019 17:14:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 137
+[15-Dec-2019 17:14:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 137
+[15-Dec-2019 17:14:53 UTC] PHP Fatal error:  Call to undefined function compStage() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 122
+[15-Dec-2019 17:15:29 UTC] PHP Fatal error:  Call to undefined function compStage() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 122
+[15-Dec-2019 17:15:42 UTC] PHP Fatal error:  Call to undefined function compStage() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 122
+[15-Dec-2019 17:16:07 UTC] PHP Fatal error:  Call to undefined function compStage() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 123
+[15-Dec-2019 17:26:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 52
+[15-Dec-2019 17:27:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 52
+[15-Dec-2019 17:27:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 52
+[18-Dec-2019 03:33:11 UTC] PHP Fatal error:  Cannot redeclare count() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 18
+[18-Dec-2019 03:33:13 UTC] PHP Fatal error:  Cannot redeclare count() in /home3/qmjezymy/public_html/rockers/scout/matches/index.php on line 18

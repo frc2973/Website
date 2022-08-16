@@ -1,0 +1,29 @@
+[13-Mar-2019 02:14:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT' at line 1 in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php:34
+Stack trace:
+#0 /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 34
+[13-Mar-2019 02:20:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 28
+[13-Mar-2019 02:20:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 28
+[13-Mar-2019 02:22:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 28
+[14-Mar-2019 02:16:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 24
+[14-Mar-2019 02:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 24
+[14-Mar-2019 02:51:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 28
+[14-Mar-2019 03:20:09 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:20:55 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:21:48 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br></center>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:22:17 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:23:58 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:26:17 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:27:20 UTC] PHP Parse error:  syntax error, unexpected '"</h1><br>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 38
+[14-Mar-2019 03:36:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 37
+[14-Mar-2019 03:44:25 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 39
+[14-Mar-2019 14:18:53 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 31
+[14-Mar-2019 14:18:57 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 31
+[14-Mar-2019 14:20:07 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home3/qmjezymy/public_html/rockers/scout/reports/viewreport/index.php on line 31

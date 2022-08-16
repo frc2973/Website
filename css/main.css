@@ -1,0 +1,209 @@
+﻿/*main.css*/
+/* mobile: @media (max-width: 1000px) */
+
+
+#blogButton {
+	  	height: 50px;
+	    width: 200px;
+	    padding: 0px 10px;
+	    text-align: center;
+	    line-height: 50px;
+	    vertical-align: middle;
+	    color: #FFF;
+	    background-color: rgba(0,0,0,0.25);
+	    border: none;
+	    font-size: 15px;
+	    cursor: pointer;
+	    margin-top: 10px;
+	    border-radius: 25px;
+			transition-duration: 0.3s;
+	    -webkit-tranition-duration: 0.3s;
+	}
+
+	#blogButton:hover {
+	    background-color: rgb(0,0,0);
+	    transition-duration: 0.3s;
+	    -webkit-tranition-duration: 0.3s;
+			box-shadow: 0 0 10px black;
+	}
+
+	#activityBlog {
+			height: 250px;
+			width: calc(45% - 20px);
+			display: inline-block;
+			float: right;
+			margin: 10px;
+			position: relative;
+			margin-top: 10px;
+}
+
+	#BlogContent {
+			height: calc(100% - 60px);
+			width: auto;
+      background-color: rgba(0,0,0,0.25);
+			margin-top: 60px;
+			color: white;
+			font-size: 20px;
+			text-align: center;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+	}
+
+  @media only screen and (max-width: 540px) {
+
+		#navigation .leftTitle {
+			display: none !important;
+		}
+  }
+
+  @media only screen and (max-width: 640px) {
+    #cDDH {
+      display: none !important;
+    }
+
+		#navigation .leftTitle {
+      padding-left: 5px !important;
+    }
+
+  }
+
+	@media only screen and (max-width: 1440px) {
+		#NavText {
+			display: none !important;
+		}
+	}
+
+  @media only screen and (max-width: 1120px) {
+    .largeElement {
+      display: none !important;
+    }
+
+    .smallElement {
+      display: block !important;
+    }
+
+    #navigation a > i {
+      margin-top: 20px;
+    }
+
+    #activityLogo {
+      display: none !important;
+    }
+
+    #activityHeader {
+      width: 100%;
+    }
+
+    #activityCalendar {
+      width: calc(100% - 20px) !important;
+    }
+
+		#activityImageLanding {
+			display: none !important;
+		}
+
+    #activityBlog {
+      width: calc(100% - 20px) !important;
+    }
+  }
+
+	#cDDH {
+	}
+	#cDDH:hover #competitionDropDown,
+	#competitionDropDown:hover{
+	    display:block;
+	}
+	.ad  {
+	    color: #FFFFFF ;
+	    display:block ;
+	    padding:20px ;
+	    width:100% ;
+	    text-align:left ;
+	    cursor:pointer;
+	    background-color:#444444 ;
+	    -webkit-transition-duration: 1s;
+	    transition-duration: 1s;
+	}
+	.ad:hover {
+	    color:white;
+	    background-color:black ;
+	}
+	.adh  {
+	    color: #AAAAAA ;
+	    display:block ;
+	    padding:3px 20px 3px 20px ;
+	    width:100% ;
+	    text-align:left ;
+	    background-color:#333333 ;
+	    line-height:20px;
+	    font-size:15px;
+	}
+
+#landingcontent {
+    width: 850px;
+    height: 300px;
+    position: absolute;
+
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    border-radius: 5px;
+
+    vertical-align: middle;
+    background-color: rgba(0,0,0,0.75);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#logo_area {
+    width: 50%;
+    height: 100%;
+    line-height: 300px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+    background-color: white;
+    /*background = id(grad_blue)*/
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#button_area {
+    width: 50%;
+    height: 100%;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.vb {/*Makes it so the parent div doesn't get bigger*/
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  box-sizing: border-box;
+  pointer-events: none;
+  overflow:hidden;
+}
+
+.vf {/*Works with aspect ratio and causes the video to cover screen*/
+     position: absolute;left: 0;width: 100%;
+  pointer-events: none;
+  box-sizing: border-box;
+  height: 300%; top: -100%;
+}
+.vb iframe {/*Now put the video where the vf is... TO DO: Merge vf and iframe?*/
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  box-sizing: border-box;
+}
+
+.explore {
+    width:100%;
+    height:calc(100vh - 60px);
+}

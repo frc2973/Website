@@ -1,0 +1,6 @@
+>blog icon
+67
+>image1
+
+>paragraph1
+We began milling the frame pieces this week to begin assembly of the final robot! We are finishing prototyping this week and have begun construction of the final versions of end effectors. Everything seems to be on schedule at the moment.

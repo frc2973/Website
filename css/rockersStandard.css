@@ -1,0 +1,156 @@
+/*/css/rockersStandard.css*/ /*File not updating? Hit Crtl+F5 on the actual webpage to reset CSS dependencies.*/
+.mr_button_large {
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color:black;
+    padding:10px 15px 10px 15px;
+    font-size:50px;
+    cursor:pointer;
+    height:75px;
+    -webkit-transition-property:all;
+    -webkit-transition-duration:1s;
+    transition-property: all;
+    transition-duration: 1s;
+    -webkit-animation: anim2 3s infinite linear;
+    animation: anim2 3s infinite linear;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.mr_button_medium {
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color:black;
+    padding:10px 15px 10px 15px;
+    font-size:30px;
+    cursor:pointer;
+    height:50px;
+    -webkit-transition-property:all;
+    -webkit-transition-duration:1s;
+    transition-property: all;
+    transition-duration: 1s;
+    -webkit-animation: anim2 3s infinite linear;
+    animation: anim2 3s infinite linear;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mrBodyLarge {
+    font-size:24px;
+}
+
+#mr_landing_button {
+    border: none;
+    background-color: white;
+    color:black;
+    font-size:20px;
+    cursor:pointer;
+    height: 50px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 125px auto;
+    -webkit-transition-duration: 1s;
+    transition-duration: 1s;
+    border-radius: 5px;
+
+    /*
+    -webkit-transition-property:all;
+    -webkit-transition-duration:1s;
+    transition-property: all;
+    transition-duration: 1s;
+    -webkit-animation: anim2 1s infinite linear;
+    animation: anim2 1s infinite linear;
+    */
+}
+
+#mr_landing_button:hover {
+    opacity: 0.5;
+}
+
+@-webkit-keyframes anim2 {
+    0%   {border-color: black;color:black;}
+    50% {border-color: blue;color:darkgrey;}
+    100% {border-color: black;color:black;}
+}
+@keyframes anim2 {
+    0%   {border-color: black;color:black;}
+    50% {border-color: blue;color:darkgrey;}
+    100% {border-color: black;color:black;}
+}
+
+@-webkit-keyframes anim1 {
+    0%   {top: -50px;}
+    25%  {top: 30px;}
+    75%  {top: 30px}
+    100% {top: 30px;}
+}
+@keyframes anim1 {
+    0%   {top: -50px;}
+    25%  {top: 30px;}
+    75%  {top: 30px}
+    100% {top: 30px;}
+}
+
+@-webkit-keyframes anim1d {
+    0%   {top: 30px;}
+    25%  {top: -50px;}
+    75%  {top: -50px}
+    100% {top: -50px;}
+}
+@keyframes anim1d {
+    0%   {top: 30px;}
+    25%  {top: -50px;}
+    75%  {top: -50px}
+    100% {top: -50px;}
+}
+
+
+.mr_button_large > .arrowDown {
+    display:none;
+}
+.mr_button_large:hover > .arrowDown {
+    position:relative;
+    display:inline-block;
+    -webkit-animation: anim1 1s infinite linear;
+    animation: anim1 1s infinite linear;
+}
+
+.mr_button_large > .arrowUp{
+    display:none;
+}
+.mr_button_large:hover > .arrowUp {
+    position:relative;
+    display:inline-block;
+    -webkit-animation: anim1d 1s infinite linear;
+    animation: anim1d 1s infinite linear;
+}
+
+
+
+
+.mrTitleMassive {
+    font-weight: bold;
+    font-size:40px;
+}
+.mrTitleMassiveSub {
+    font-weight: bold;
+    font-size:30px;
+}
+.mrTitleMassiveTinySub {
+    font-size:26px;
+}
+
+.invis {
+    color:rgba(0,0,0,0);
+    font-size:0;
+}
+
+.grad_blue {
+  background: white; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(bottom right, #F0F2F0, #000C40); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top left, #F0F2F0, #000C40); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top left, #F0F2F0, #000C40); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top left, #F0F2F0, #000C40); /* Standard syntax */
+}

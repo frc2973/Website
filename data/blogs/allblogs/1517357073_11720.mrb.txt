@@ -1,0 +1,6 @@
+>blog icon
+27
+>image1
+26
+>paragraph1
+The assembly for the scale is 90% complete. The chassis design has been completed, and Proto Machine Works has all of the required materials. One of the gearboxes is assembled and we have all of the wheels. The software team started a tracking system for the cubes and started working on the code for the autonomous phase. CAD designs for the grabber and elevator are well underway. T-shirt designs are being finalized.

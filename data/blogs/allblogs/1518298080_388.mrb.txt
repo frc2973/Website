@@ -1,0 +1,6 @@
+>blog icon
+38
+>image1
+38
+>paragraph1
+The construction team finished up building the chassis for the robot today! We experienced a slight hiccup with the lift and box grabber but fixed them up pretty quickly. We worked on wiring and assembling the rest of the chassis, and we were able to supply the drivetrain of the robot for the software team to test.

@@ -1,0 +1,6 @@
+>blog icon
+14
+>image1
+14
+>paragraph1
+On Thursday, the team accomplished many things. The software team coded the robot with a self-guiding vision system, with which it was able to recognize an object and follow it around the room. The mechanical team worked on disassembling past robots and repairing them for future demonstrations. All in all, the pace is set and the team is ready to tackle the POWER UP challenge in January.

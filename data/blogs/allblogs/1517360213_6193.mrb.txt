@@ -1,0 +1,6 @@
+>blog icon
+32
+>image1
+35
+>paragraph1
+The assembly of the lift and the grabber, which utilizes pneumatics to grab power cubes, has been completed. The prototype grabber was installed on the test robot, and the chassis is expected to arrive on Monday. The pneumatics have been wired and mounted to the test robot.

@@ -1,0 +1,6 @@
+>blog icon
+20
+>image1
+20
+>paragraph1
+2017 was a strange year for the robotics team, as the software team lost many strong members and knowledge, along with the hardware team having many of its member training the next generation of team members to replace them once they left high school. 2018 is looking to be a great year however, as funding allows for the Mad Rockers to attend 2 competitions this year instead of just one. This is important as the first competition really reveals what needs to be fixed on the robot, allows time for additional fixes, and gives experience to the drivers before the next competition so it can perform at its best. It's looking like a great next year!

@@ -1,0 +1,6 @@
+>blog icon
+11
+>image1
+
+>paragraph1
+This is a test of the video blog system.

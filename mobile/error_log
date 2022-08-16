@@ -1,0 +1,17 @@
+[24-Jun-2018 08:28:33 UTC] PHP Warning:  require(../sitescript/mrDB.php): failed to open stream: No such file or directory in /home3/qmjezymy/public_html/rockers/mobile/mobile.php on line 2
+[24-Jun-2018 08:28:33 UTC] PHP Warning:  require(../sitescript/mrDB.php): failed to open stream: No such file or directory in /home3/qmjezymy/public_html/rockers/mobile/mobile.php on line 2
+[24-Jun-2018 08:28:33 UTC] PHP Fatal error:  require(): Failed opening required '../sitescript/mrDB.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/qmjezymy/public_html/rockers/mobile/mobile.php on line 2
+[02-Jan-2020 01:25:01 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 15
+[02-Jan-2020 01:25:04 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 15
+[02-Jan-2020 01:25:15 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 10
+[02-Jan-2020 01:25:20 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 10
+[02-Jan-2020 01:25:43 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 10
+[02-Jan-2020 01:25:47 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 10
+[02-Jan-2020 01:27:10 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 15
+[02-Jan-2020 01:28:22 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 15
+[02-Jan-2020 01:28:42 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 15
+[02-Jan-2020 01:28:53 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/contact.php on line 15
+[02-Jan-2020 01:30:19 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/head.php on line 10
+[02-Jan-2020 01:30:23 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/head.php on line 10
+[02-Jan-2020 01:31:44 UTC] PHP Parse error:  syntax error, unexpected '$senderEmail' (T_VARIABLE) in /home3/qmjezymy/public_html/rockers/mobile/head.php on line 10
+[02-Jan-2020 01:32:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/qmjezymy/public_html/rockers/mobile/head.php on line 11
