@@ -5,6 +5,7 @@ body, table, .display-4, .lead, .featurette {
 
 h1, h2, h3, h4, h5 {
 	font-weight: 700;
+  color: white;
 }
 
 .active, .navbar-brand, .card, .btn, .display-4 {
