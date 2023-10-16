@@ -112,8 +112,4 @@ a.hidden {
   height: 300px;
 }
 
-iframe {
-  display: block;
-  border-style:none;
-  margin: 0 auto;
-}
+
