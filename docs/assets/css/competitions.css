@@ -126,3 +126,9 @@
     background-size: cover;
     background-image: url("/images/Comp SMR.jpg");
 }
+
+iframe {
+    display: block;
+    border-style:none;
+    margin: 0 auto;
+  }
