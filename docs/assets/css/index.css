@@ -128,10 +128,26 @@ table th {
 		font-family: "Open Sans", sans-serif;
 		width: 33%;
 		color: white;
+		text-align: center; 
+		padding: 15px;
+}
+
+table td {
+	font-family: "Open Sans", sans-serif;
+	width: 33%;
+	color: white;
+	padding: 8px;
+	
+}
+
+table {
+	
 }
 
 table tr {
     height: 10px;
+	border-style: dashed;
+
 }
 
 	.ContentContainer {
